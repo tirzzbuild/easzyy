@@ -1,0 +1,2 @@
+# easzyy
+Deployed via Bot
